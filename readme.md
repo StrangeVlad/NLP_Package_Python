@@ -112,14 +112,4 @@ Feel free to contribute by submitting pull requests or opening issues.
 
 ## 📩 Contact
 
-## For any questions or feedback, contact me at your.email@example.com.
-
-### **🚀 Next Steps**
-
-1. **Update `Zagane Mohammed Mounir` and `mounir.zagane@example.com`** with your actual info.
-2. **Upload to GitHub**:
-   ```sh
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
+## For any questions or feedback, contact me at mounir.zagane@gmail.com.
